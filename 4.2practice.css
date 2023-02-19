@@ -1,0 +1,21 @@
+
+#ex{
+    /*background: pink;*/
+    font-size: 350px;
+    text-align: center;
+    /*text-shadow: red 5px -10px 15px;*/
+    /*gray 3px 4px 5px;*/
+    /*box-shadow: inset darkgreen -2px -5px 8px;*/
+    box-shadow: red -5px -10px 15px ;
+    /*background: linear-gradient(345deg, rgb(172, 232, 172), rgb(21, 35, 21) 80%);*/
+    /*background: repeating-radial-gradient(circle, deeppink 10%, grey 25%, blue 30% );*/
+    /*opacity: 85%;*/
+    /*background: linear-gradient(to left bottom, orange, yellow, green);*/
+    /*transform: translate(40px, -35px);*/
+
+}
+/*div{*/
+/*    font-size: 350px;*/
+/*    !*transform: perspective(150px) rotateX(-20deg);*!*/
+/*    transform: translate(5px, -10px);*/
+/*}*/
